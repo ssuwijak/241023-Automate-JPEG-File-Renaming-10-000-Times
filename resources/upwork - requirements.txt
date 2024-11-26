@@ -1,0 +1,30 @@
+Automate JPEG File Renaming 10,000 Times
+Posted 7 hours ago
+Worldwide
+Specialized profiles can help you better highlight your expertise when submitting proposals to jobs like these. Create a specialized profile.
+
+***Job Title***
+Automate Renaming of One JPEG File 10,000 Times Based on Provided List
+
+***Job Description***
+We are seeking a freelancer to automate the process of copying and renaming a single JPEG file 10,000 times using a provided list of new file names. The list of new names is provided in a CSV file. The task is to create 10,000 copies of the original file, each with a unique name from the list.
+
+***Project Requirements***
+Copy and rename one JPEG file 10,000 times based on a CSV file containing the new names.
+Automation is required: The process should be done using a script or batch method (e.g., Python, PowerShell, or other scripting tools) to ensure efficiency.
+Accuracy is critical: Each copy must be named exactly as specified in the list, with no mistakes.
+Quick turnaround time: The job should be completed within 2-3 days.
+
+***Skills Required***
+Experience with automation tools or scripting languages (Python, PowerShell, Bash, etc.).
+Familiarity with bulk file operations and handling large datasets.
+Attention to detail to ensure accuracy in copying and renaming.
+
+***Additional Information***
+The list of new file names is provided in CSV format, with one name per row.
+The original JPEG file will be provided, and all copies should be stored in a specified directory.
+
+***Deliverables***
+10,000 copies of the original JPEG file, each renamed according to the provided list.
+The script or method used to complete the task.
+A log or report showing successful completion and any potential issues encountered.

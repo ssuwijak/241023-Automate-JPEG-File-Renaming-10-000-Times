@@ -1,5 +1,5 @@
 # 241023 Automate JPEG File Renaming 10,000 Times
-to copy a JPEG file to the specified folder by the pre-defined namelist in the csv file.
+to copy a JPEG file to the specified folder as the pre-defined namelist in the csv file.
 
 ## Windows Command Prompt Package
 the package consists of 4 files.
